@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mestoCardReact/static/css/main.5ce4f238.chunk.css",
-    "main.js": "/mestoCardReact/static/js/main.4cd3620b.chunk.js",
-    "main.js.map": "/mestoCardReact/static/js/main.4cd3620b.chunk.js.map",
+    "main.js": "/mestoCardReact/static/js/main.4322b4a8.chunk.js",
+    "main.js.map": "/mestoCardReact/static/js/main.4322b4a8.chunk.js.map",
     "runtime-main.js": "/mestoCardReact/static/js/runtime-main.a6c880be.js",
     "runtime-main.js.map": "/mestoCardReact/static/js/runtime-main.a6c880be.js.map",
     "static/js/2.c166284b.chunk.js": "/mestoCardReact/static/js/2.c166284b.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.a6c880be.js",
     "static/js/2.c166284b.chunk.js",
     "static/css/main.5ce4f238.chunk.css",
-    "static/js/main.4cd3620b.chunk.js"
+    "static/js/main.4322b4a8.chunk.js"
   ]
 }
